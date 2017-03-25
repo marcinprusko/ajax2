@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+
+body {
+	background: #0c82dc;
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	color: #FFFFFF;
+}
+header h1 {
+	font-size: 30px;
+	margin-bottom: 100px;
+}
+button,  
+.tweet {
+	background: #0c82dc;
+	color: #FFFFFF;
+	border-color: #FFFFFF;
+	border: 2px solid;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 10px 30px;
+    margin: 100px 20px;
+    font-size: 20px;
+}
+
